@@ -1,6 +1,6 @@
 Project Description: 2048 Game Clone
 
-This project is a modern web-based implementation of the classic 2048 puzzle game, developed using HTML, SCSS, and JavaScript. The game combines smooth animations, responsive design, and optimized logic to deliver an engaging and challenging experience for users.
+* This project is a modern web-based implementation of the classic 2048 puzzle game, developed using HTML, SCSS, and JavaScript. The game combines smooth animations, responsive design, and optimized logic to deliver an engaging and challenging experience for users.
 
 Features:
 - Core Gameplay: Classic 2048 mechanics where players merge tiles with the same value to reach the coveted "2048" tile.
